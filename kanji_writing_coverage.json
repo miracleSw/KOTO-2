@@ -1,0 +1,2101 @@
+{
+  "report_type": "kanji_writing_coverage",
+  "version": "1.0.0",
+  "summary": {
+    "pdf_nonempty_teaching_rows": 119,
+    "pdf_distinct_written_expressions": 118,
+    "core_unique_kanji_characters": 109,
+    "ideographic_iteration_mark_note": "々 (U+3005, appearing in 色々) is preserved at expression level and excluded from CJK Unified Ideograph count (109).",
+    "verified_stroke_reference_available": 55,
+    "guided_order_practice_available": 55,
+    "jstroke_directional_reference_available": 109,
+    "freehand_fallback_available": 109,
+    "writing_review_eligible": 109,
+    "optional_vocab_extension_kanji_count": 156
+  },
+  "licensing_and_provenance": {
+    "stroke_count_and_direction_source": "/usr/share/yudit/data/kanji.hwd (JStroke / JavaDict by Todd David Rudick, packaged by Gaspar Sinai for Yudit, GPL-2.0)",
+    "coordinate_median_paths": "56 core characters with verified 109x109 JIS-standard ordered stroke medians cross-checked against kanji.hwd stroke counts and directional codes",
+    "glyph_reference_font": "Noto Serif CJK JP / Noto Sans CJK JP (SIL Open Font License 1.1)",
+    "honesty_policy": "Guided coordinate trace and automatic coordinate path-order grading are enabled ONLY for characters with verified_stroke_reference_available=true (56/109). The remaining 53/109 core characters provide full freehand writing, Noto Serif CJK JP glyph overlay comparison, kanji.hwd stroke-count & directional trajectory checks, and transparent self-assessment (Không chắc / Tự đánh giá)."
+  },
+  "character_audit": [
+    {
+      "kanji_id": "kchar_U9152",
+      "character": "酒",
+      "unicode_hex": "U+9152",
+      "stroke_count": 10,
+      "lessons": [
+        11
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_01",
+        "kanji_row_L11_P1_02"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/酒"
+    },
+    {
+      "kanji_id": "kchar_U65E5",
+      "character": "日",
+      "unicode_hex": "U+65E5",
+      "stroke_count": 4,
+      "lessons": [
+        11,
+        16,
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_02",
+        "kanji_row_L16_P6_01",
+        "kanji_row_L17_P7_02"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/日"
+    },
+    {
+      "kanji_id": "kchar_U672C",
+      "character": "本",
+      "unicode_hex": "U+672C",
+      "stroke_count": 5,
+      "lessons": [
+        11,
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_02",
+        "kanji_row_L13_P3_04"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/本"
+    },
+    {
+      "kanji_id": "kchar_U4F5C",
+      "character": "作",
+      "unicode_hex": "U+4F5C",
+      "stroke_count": 7,
+      "lessons": [
+        11,
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_03",
+        "kanji_row_L11_P1_04",
+        "kanji_row_L18_P8_09"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/作"
+    },
+    {
+      "kanji_id": "kchar_U6587",
+      "character": "文",
+      "unicode_hex": "U+6587",
+      "stroke_count": 4,
+      "lessons": [
+        11
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_04"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/文"
+    },
+    {
+      "kanji_id": "kchar_U98DF",
+      "character": "食",
+      "unicode_hex": "U+98DF",
+      "stroke_count": 9,
+      "lessons": [
+        11,
+        16
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_05",
+        "kanji_row_L16_P6_14"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/食"
+    },
+    {
+      "kanji_id": "kchar_U7269",
+      "character": "物",
+      "unicode_hex": "U+7269",
+      "stroke_count": 8,
+      "lessons": [
+        11
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_05",
+        "kanji_row_L11_P1_06",
+        "kanji_row_L11_P1_07",
+        "kanji_row_L11_P1_08"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/物"
+    },
+    {
+      "kanji_id": "kchar_U98F2",
+      "character": "飲",
+      "unicode_hex": "U+98F2",
+      "stroke_count": 12,
+      "lessons": [
+        11
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_06"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/飲"
+    },
+    {
+      "kanji_id": "kchar_U4E57",
+      "character": "乗",
+      "unicode_hex": "U+4E57",
+      "stroke_count": 9,
+      "lessons": [
+        11
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_07"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/乗"
+    },
+    {
+      "kanji_id": "kchar_U8377",
+      "character": "荷",
+      "unicode_hex": "U+8377",
+      "stroke_count": 10,
+      "lessons": [
+        11
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_08"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/荷"
+    },
+    {
+      "kanji_id": "kchar_U8336",
+      "character": "茶",
+      "unicode_hex": "U+8336",
+      "stroke_count": 9,
+      "lessons": [
+        11
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_09",
+        "kanji_row_L11_P1_10"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/茶"
+    },
+    {
+      "kanji_id": "kchar_U55AB",
+      "character": "喫",
+      "unicode_hex": "U+55AB",
+      "stroke_count": 12,
+      "lessons": [
+        11
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_10"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/喫"
+    },
+    {
+      "kanji_id": "kchar_U5E97",
+      "character": "店",
+      "unicode_hex": "U+5E97",
+      "stroke_count": 8,
+      "lessons": [
+        11
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_10"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/店"
+    },
+    {
+      "kanji_id": "kchar_U6301",
+      "character": "持",
+      "unicode_hex": "U+6301",
+      "stroke_count": 9,
+      "lessons": [
+        11
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_11",
+        "kanji_row_L11_P1_12"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/持"
+    },
+    {
+      "kanji_id": "kchar_U6C17",
+      "character": "気",
+      "unicode_hex": "U+6C17",
+      "stroke_count": 6,
+      "lessons": [
+        11,
+        13,
+        14,
+        16
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_12",
+        "kanji_row_L13_P3_19",
+        "kanji_row_L14_P4_10",
+        "kanji_row_L14_P4_11",
+        "kanji_row_L14_P4_12",
+        "kanji_row_L16_P6_06"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/気"
+    },
+    {
+      "kanji_id": "kchar_U9858",
+      "character": "願",
+      "unicode_hex": "U+9858",
+      "stroke_count": 19,
+      "lessons": [
+        11
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_13",
+        "kanji_row_L11_P1_14",
+        "kanji_row_L11_P1_15"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/願"
+    },
+    {
+      "kanji_id": "kchar_U4E8B",
+      "character": "事",
+      "unicode_hex": "U+4E8B",
+      "stroke_count": 8,
+      "lessons": [
+        11,
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L11_P1_15",
+        "kanji_row_L12_P2_12"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/事"
+    },
+    {
+      "kanji_id": "kchar_U6599",
+      "character": "料",
+      "unicode_hex": "U+6599",
+      "stroke_count": 9,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_01",
+        "kanji_row_L12_P2_02",
+        "kanji_row_L12_P2_03"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/料"
+    },
+    {
+      "kanji_id": "kchar_U7406",
+      "character": "理",
+      "unicode_hex": "U+7406",
+      "stroke_count": 11,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_01",
+        "kanji_row_L12_P2_04",
+        "kanji_row_L12_P2_05"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/理"
+    },
+    {
+      "kanji_id": "kchar_U91D1",
+      "character": "金",
+      "unicode_hex": "U+91D1",
+      "stroke_count": 8,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_02"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/金"
+    },
+    {
+      "kanji_id": "kchar_U8CC7",
+      "character": "資",
+      "unicode_hex": "U+8CC7",
+      "stroke_count": 13,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_03"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/資"
+    },
+    {
+      "kanji_id": "kchar_U7531",
+      "character": "由",
+      "unicode_hex": "U+7531",
+      "stroke_count": 5,
+      "lessons": [
+        12,
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_04",
+        "kanji_row_L14_P4_02"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/由"
+    },
+    {
+      "kanji_id": "kchar_U7121",
+      "character": "無",
+      "unicode_hex": "U+7121",
+      "stroke_count": 12,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_05"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/無"
+    },
+    {
+      "kanji_id": "kchar_U5473",
+      "character": "味",
+      "unicode_hex": "U+5473",
+      "stroke_count": 8,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_06",
+        "kanji_row_L12_P2_07"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/味"
+    },
+    {
+      "kanji_id": "kchar_U5730",
+      "character": "地",
+      "unicode_hex": "U+5730",
+      "stroke_count": 6,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_07"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/地"
+    },
+    {
+      "kanji_id": "kchar_U8272",
+      "character": "色",
+      "unicode_hex": "U+8272",
+      "stroke_count": 6,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_08",
+        "kanji_row_L12_P2_09"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/色"
+    },
+    {
+      "kanji_id": "kchar_U91CE",
+      "character": "野",
+      "unicode_hex": "U+91CE",
+      "stroke_count": 11,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_10"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/野"
+    },
+    {
+      "kanji_id": "kchar_U83DC",
+      "character": "菜",
+      "unicode_hex": "U+83DC",
+      "stroke_count": 11,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_10"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/菜"
+    },
+    {
+      "kanji_id": "kchar_U4E2D",
+      "character": "中",
+      "unicode_hex": "U+4E2D",
+      "stroke_count": 4,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_11",
+        "kanji_row_L12_P2_12",
+        "kanji_row_L12_P2_13",
+        "kanji_row_L12_P2_14"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/中"
+    },
+    {
+      "kanji_id": "kchar_U4ED5",
+      "character": "仕",
+      "unicode_hex": "U+4ED5",
+      "stroke_count": 5,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_12"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/仕"
+    },
+    {
+      "kanji_id": "kchar_U4E00",
+      "character": "一",
+      "unicode_hex": "U+4E00",
+      "stroke_count": 1,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_13"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/一"
+    },
+    {
+      "kanji_id": "kchar_U5E74",
+      "character": "年",
+      "unicode_hex": "U+5E74",
+      "stroke_count": 6,
+      "lessons": [
+        12,
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_13",
+        "kanji_row_L18_P8_04",
+        "kanji_row_L18_P8_05",
+        "kanji_row_L18_P8_06"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/年"
+    },
+    {
+      "kanji_id": "kchar_U6B62",
+      "character": "止",
+      "unicode_hex": "U+6B62",
+      "stroke_count": 4,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_14"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/止"
+    },
+    {
+      "kanji_id": "kchar_U5165",
+      "character": "入",
+      "unicode_hex": "U+5165",
+      "stroke_count": 2,
+      "lessons": [
+        12,
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_15",
+        "kanji_row_L12_P2_16",
+        "kanji_row_L12_P2_17",
+        "kanji_row_L13_P3_05"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/入"
+    },
+    {
+      "kanji_id": "kchar_U5B66",
+      "character": "学",
+      "unicode_hex": "U+5B66",
+      "stroke_count": 8,
+      "lessons": [
+        12
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L12_P2_17"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/学"
+    },
+    {
+      "kanji_id": "kchar_U4F1A",
+      "character": "会",
+      "unicode_hex": "U+4F1A",
+      "stroke_count": 6,
+      "lessons": [
+        13,
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_01",
+        "kanji_row_L13_P3_02",
+        "kanji_row_L13_P3_03",
+        "kanji_row_L17_P7_09"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/会"
+    },
+    {
+      "kanji_id": "kchar_U793E",
+      "character": "社",
+      "unicode_hex": "U+793E",
+      "stroke_count": 7,
+      "lessons": [
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_02",
+        "kanji_row_L13_P3_03",
+        "kanji_row_L13_P3_04",
+        "kanji_row_L13_P3_05",
+        "kanji_row_L13_P3_06",
+        "kanji_row_L13_P3_07"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/社"
+    },
+    {
+      "kanji_id": "kchar_U54E1",
+      "character": "員",
+      "unicode_hex": "U+54E1",
+      "stroke_count": 10,
+      "lessons": [
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_03"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/員"
+    },
+    {
+      "kanji_id": "kchar_U795E",
+      "character": "神",
+      "unicode_hex": "U+795E",
+      "stroke_count": 9,
+      "lessons": [
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_06"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/神"
+    },
+    {
+      "kanji_id": "kchar_U652F",
+      "character": "支",
+      "unicode_hex": "U+652F",
+      "stroke_count": 4,
+      "lessons": [
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_07"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/支"
+    },
+    {
+      "kanji_id": "kchar_U51FA",
+      "character": "出",
+      "unicode_hex": "U+51FA",
+      "stroke_count": 5,
+      "lessons": [
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_08",
+        "kanji_row_L13_P3_09",
+        "kanji_row_L13_P3_10",
+        "kanji_row_L13_P3_11",
+        "kanji_row_L13_P3_12",
+        "kanji_row_L13_P3_13"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/出"
+    },
+    {
+      "kanji_id": "kchar_U53E3",
+      "character": "口",
+      "unicode_hex": "U+53E3",
+      "stroke_count": 3,
+      "lessons": [
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_11"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/口"
+    },
+    {
+      "kanji_id": "kchar_U5F35",
+      "character": "張",
+      "unicode_hex": "U+5F35",
+      "stroke_count": 11,
+      "lessons": [
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_12"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/張"
+    },
+    {
+      "kanji_id": "kchar_U767A",
+      "character": "発",
+      "unicode_hex": "U+767A",
+      "stroke_count": 9,
+      "lessons": [
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_13",
+        "kanji_row_L13_P3_14"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/発"
+    },
+    {
+      "kanji_id": "kchar_U97F3",
+      "character": "音",
+      "unicode_hex": "U+97F3",
+      "stroke_count": 9,
+      "lessons": [
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_14"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/音"
+    },
+    {
+      "kanji_id": "kchar_U5230",
+      "character": "到",
+      "unicode_hex": "U+5230",
+      "stroke_count": 8,
+      "lessons": [
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_15"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/到"
+    },
+    {
+      "kanji_id": "kchar_U7740",
+      "character": "着",
+      "unicode_hex": "U+7740",
+      "stroke_count": 12,
+      "lessons": [
+        13,
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_15",
+        "kanji_row_L13_P3_16",
+        "kanji_row_L13_P3_17",
+        "kanji_row_L17_P7_10"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/着"
+    },
+    {
+      "kanji_id": "kchar_U7A7A",
+      "character": "空",
+      "unicode_hex": "U+7A7A",
+      "stroke_count": 8,
+      "lessons": [
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_18",
+        "kanji_row_L13_P3_19",
+        "kanji_row_L13_P3_21"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/空"
+    },
+    {
+      "kanji_id": "kchar_U6E2F",
+      "character": "港",
+      "unicode_hex": "U+6E2F",
+      "stroke_count": 12,
+      "lessons": [
+        13
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L13_P3_20",
+        "kanji_row_L13_P3_21"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/港"
+    },
+    {
+      "kanji_id": "kchar_U81EA",
+      "character": "自",
+      "unicode_hex": "U+81EA",
+      "stroke_count": 6,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_01",
+        "kanji_row_L14_P4_02",
+        "kanji_row_L14_P4_03",
+        "kanji_row_L14_P4_05",
+        "kanji_row_L14_P4_06"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/自"
+    },
+    {
+      "kanji_id": "kchar_U5206",
+      "character": "分",
+      "unicode_hex": "U+5206",
+      "stroke_count": 4,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_01"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/分"
+    },
+    {
+      "kanji_id": "kchar_U7136",
+      "character": "然",
+      "unicode_hex": "U+7136",
+      "stroke_count": 12,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_03"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/然"
+    },
+    {
+      "kanji_id": "kchar_U8ECA",
+      "character": "車",
+      "unicode_hex": "U+8ECA",
+      "stroke_count": 7,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_04",
+        "kanji_row_L14_P4_05",
+        "kanji_row_L14_P4_06",
+        "kanji_row_L14_P4_08"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/車"
+    },
+    {
+      "kanji_id": "kchar_U52D5",
+      "character": "動",
+      "unicode_hex": "U+52D5",
+      "stroke_count": 11,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_05"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/動"
+    },
+    {
+      "kanji_id": "kchar_U8EE2",
+      "character": "転",
+      "unicode_hex": "U+8EE2",
+      "stroke_count": 11,
+      "lessons": [
+        14,
+        15
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_06",
+        "kanji_row_L15_P5_13"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/転"
+    },
+    {
+      "kanji_id": "kchar_U96FB",
+      "character": "電",
+      "unicode_hex": "U+96FB",
+      "stroke_count": 13,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_07",
+        "kanji_row_L14_P4_08",
+        "kanji_row_L14_P4_09",
+        "kanji_row_L14_P4_10"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/電"
+    },
+    {
+      "kanji_id": "kchar_U8A71",
+      "character": "話",
+      "unicode_hex": "U+8A71",
+      "stroke_count": 13,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_07"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/話"
+    },
+    {
+      "kanji_id": "kchar_U5B50",
+      "character": "子",
+      "unicode_hex": "U+5B50",
+      "stroke_count": 3,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_09"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/子"
+    },
+    {
+      "kanji_id": "kchar_U75C5",
+      "character": "病",
+      "unicode_hex": "U+75C5",
+      "stroke_count": 10,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_11"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/病"
+    },
+    {
+      "kanji_id": "kchar_U4EBA",
+      "character": "人",
+      "unicode_hex": "U+4EBA",
+      "stroke_count": 2,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_12"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/人"
+    },
+    {
+      "kanji_id": "kchar_U4F7F",
+      "character": "使",
+      "unicode_hex": "U+4F7F",
+      "stroke_count": 8,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_13",
+        "kanji_row_L14_P4_14"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/使"
+    },
+    {
+      "kanji_id": "kchar_U5927",
+      "character": "大",
+      "unicode_hex": "U+5927",
+      "stroke_count": 3,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_14"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/大"
+    },
+    {
+      "kanji_id": "kchar_U9928",
+      "character": "館",
+      "unicode_hex": "U+9928",
+      "stroke_count": 16,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_14"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/館"
+    },
+    {
+      "kanji_id": "kchar_U501F",
+      "character": "借",
+      "unicode_hex": "U+501F",
+      "stroke_count": 10,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_15"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/借"
+    },
+    {
+      "kanji_id": "kchar_U9001",
+      "character": "送",
+      "unicode_hex": "U+9001",
+      "stroke_count": 9,
+      "lessons": [
+        14
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L14_P4_16"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/送"
+    },
+    {
+      "kanji_id": "kchar_U4F53",
+      "character": "体",
+      "unicode_hex": "U+4F53",
+      "stroke_count": 7,
+      "lessons": [
+        15
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L15_P5_01",
+        "kanji_row_L15_P5_02"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/体"
+    },
+    {
+      "kanji_id": "kchar_U5168",
+      "character": "全",
+      "unicode_hex": "U+5168",
+      "stroke_count": 6,
+      "lessons": [
+        15
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L15_P5_02"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/全"
+    },
+    {
+      "kanji_id": "kchar_U982D",
+      "character": "頭",
+      "unicode_hex": "U+982D",
+      "stroke_count": 16,
+      "lessons": [
+        15
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L15_P5_03"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/頭"
+    },
+    {
+      "kanji_id": "kchar_U76EE",
+      "character": "目",
+      "unicode_hex": "U+76EE",
+      "stroke_count": 5,
+      "lessons": [
+        15,
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L15_P5_04",
+        "kanji_row_L15_P5_05",
+        "kanji_row_L17_P7_06"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/目"
+    },
+    {
+      "kanji_id": "kchar_U7684",
+      "character": "的",
+      "unicode_hex": "U+7684",
+      "stroke_count": 8,
+      "lessons": [
+        15
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L15_P5_05"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/的"
+    },
+    {
+      "kanji_id": "kchar_U8033",
+      "character": "耳",
+      "unicode_hex": "U+8033",
+      "stroke_count": 6,
+      "lessons": [
+        15
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L15_P5_06"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/耳"
+    },
+    {
+      "kanji_id": "kchar_U624B",
+      "character": "手",
+      "unicode_hex": "U+624B",
+      "stroke_count": 4,
+      "lessons": [
+        15
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L15_P5_07",
+        "kanji_row_L15_P5_09",
+        "kanji_row_L15_P5_11",
+        "kanji_row_L15_P5_12",
+        "kanji_row_L15_P5_13"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/手"
+    },
+    {
+      "kanji_id": "kchar_U4E0A",
+      "character": "上",
+      "unicode_hex": "U+4E0A",
+      "stroke_count": 3,
+      "lessons": [
+        15
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L15_P5_08",
+        "kanji_row_L15_P5_09"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/上"
+    },
+    {
+      "kanji_id": "kchar_U4E0B",
+      "character": "下",
+      "unicode_hex": "U+4E0B",
+      "stroke_count": 3,
+      "lessons": [
+        15
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L15_P5_10",
+        "kanji_row_L15_P5_11"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/下"
+    },
+    {
+      "kanji_id": "kchar_U6B4C",
+      "character": "歌",
+      "unicode_hex": "U+6B4C",
+      "stroke_count": 14,
+      "lessons": [
+        15
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L15_P5_12"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/歌"
+    },
+    {
+      "kanji_id": "kchar_U904B",
+      "character": "運",
+      "unicode_hex": "U+904B",
+      "stroke_count": 12,
+      "lessons": [
+        15
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L15_P5_13"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/運"
+    },
+    {
+      "kanji_id": "kchar_U8DB3",
+      "character": "足",
+      "unicode_hex": "U+8DB3",
+      "stroke_count": 7,
+      "lessons": [
+        15
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L15_P5_14",
+        "kanji_row_L15_P5_15"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/足"
+    },
+    {
+      "kanji_id": "kchar_U6BCE",
+      "character": "毎",
+      "unicode_hex": "U+6BCE",
+      "stroke_count": 6,
+      "lessons": [
+        16
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_01",
+        "kanji_row_L16_P6_02",
+        "kanji_row_L16_P6_03",
+        "kanji_row_L16_P6_04"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/毎"
+    },
+    {
+      "kanji_id": "kchar_U671D",
+      "character": "朝",
+      "unicode_hex": "U+671D",
+      "stroke_count": 12,
+      "lessons": [
+        16,
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_02",
+        "kanji_row_L18_P8_03"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/朝"
+    },
+    {
+      "kanji_id": "kchar_U9031",
+      "character": "週",
+      "unicode_hex": "U+9031",
+      "stroke_count": 11,
+      "lessons": [
+        16,
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_03",
+        "kanji_row_L16_P6_05",
+        "kanji_row_L18_P8_01"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/週"
+    },
+    {
+      "kanji_id": "kchar_U6708",
+      "character": "月",
+      "unicode_hex": "U+6708",
+      "stroke_count": 4,
+      "lessons": [
+        16,
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_04",
+        "kanji_row_L18_P8_02"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/月"
+    },
+    {
+      "kanji_id": "kchar_U672B",
+      "character": "末",
+      "unicode_hex": "U+672B",
+      "stroke_count": 5,
+      "lessons": [
+        16
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_05"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/末"
+    },
+    {
+      "kanji_id": "kchar_U5143",
+      "character": "元",
+      "unicode_hex": "U+5143",
+      "stroke_count": 4,
+      "lessons": [
+        16
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_06"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/元"
+    },
+    {
+      "kanji_id": "kchar_U8D77",
+      "character": "起",
+      "unicode_hex": "U+8D77",
+      "stroke_count": 10,
+      "lessons": [
+        16
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_07"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/起"
+    },
+    {
+      "kanji_id": "kchar_U6B69",
+      "character": "歩",
+      "unicode_hex": "U+6B69",
+      "stroke_count": 8,
+      "lessons": [
+        16
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_08"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/歩"
+    },
+    {
+      "kanji_id": "kchar_U8D70",
+      "character": "走",
+      "unicode_hex": "U+8D70",
+      "stroke_count": 7,
+      "lessons": [
+        16
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_09"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/走"
+    },
+    {
+      "kanji_id": "kchar_U6CF3",
+      "character": "泳",
+      "unicode_hex": "U+6CF3",
+      "stroke_count": 8,
+      "lessons": [
+        16
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_10",
+        "kanji_row_L16_P6_11"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/泳"
+    },
+    {
+      "kanji_id": "kchar_U6C34",
+      "character": "水",
+      "unicode_hex": "U+6C34",
+      "stroke_count": 4,
+      "lessons": [
+        16
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_11"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/水"
+    },
+    {
+      "kanji_id": "kchar_U5916",
+      "character": "外",
+      "unicode_hex": "U+5916",
+      "stroke_count": 5,
+      "lessons": [
+        16
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_12",
+        "kanji_row_L16_P6_13",
+        "kanji_row_L16_P6_14"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/外"
+    },
+    {
+      "kanji_id": "kchar_U56FD",
+      "character": "国",
+      "unicode_hex": "U+56FD",
+      "stroke_count": 8,
+      "lessons": [
+        16
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L16_P6_13"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/国"
+    },
+    {
+      "kanji_id": "kchar_U795D",
+      "character": "祝",
+      "unicode_hex": "U+795D",
+      "stroke_count": 9,
+      "lessons": [
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L17_P7_01"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/祝"
+    },
+    {
+      "kanji_id": "kchar_U8A95",
+      "character": "誕",
+      "unicode_hex": "U+8A95",
+      "stroke_count": 15,
+      "lessons": [
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L17_P7_02"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/誕"
+    },
+    {
+      "kanji_id": "kchar_U751F",
+      "character": "生",
+      "unicode_hex": "U+751F",
+      "stroke_count": 5,
+      "lessons": [
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L17_P7_02"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/生"
+    },
+    {
+      "kanji_id": "kchar_U7D50",
+      "character": "結",
+      "unicode_hex": "U+7D50",
+      "stroke_count": 12,
+      "lessons": [
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L17_P7_03"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/結"
+    },
+    {
+      "kanji_id": "kchar_U5A5A",
+      "character": "婚",
+      "unicode_hex": "U+5A5A",
+      "stroke_count": 11,
+      "lessons": [
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L17_P7_03"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/婚"
+    },
+    {
+      "kanji_id": "kchar_U7D75",
+      "character": "絵",
+      "unicode_hex": "U+7D75",
+      "stroke_count": 12,
+      "lessons": [
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L17_P7_04"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/絵"
+    },
+    {
+      "kanji_id": "kchar_U5199",
+      "character": "写",
+      "unicode_hex": "U+5199",
+      "stroke_count": 5,
+      "lessons": [
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L17_P7_05"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/写"
+    },
+    {
+      "kanji_id": "kchar_U771F",
+      "character": "真",
+      "unicode_hex": "U+771F",
+      "stroke_count": 10,
+      "lessons": [
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L17_P7_05",
+        "kanji_row_L17_P7_06"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/真"
+    },
+    {
+      "kanji_id": "kchar_U9762",
+      "character": "面",
+      "unicode_hex": "U+9762",
+      "stroke_count": 9,
+      "lessons": [
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L17_P7_06"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/面"
+    },
+    {
+      "kanji_id": "kchar_U8A08",
+      "character": "計",
+      "unicode_hex": "U+8A08",
+      "stroke_count": 9,
+      "lessons": [
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L17_P7_07",
+        "kanji_row_L17_P7_08",
+        "kanji_row_L17_P7_09"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/計"
+    },
+    {
+      "kanji_id": "kchar_U6642",
+      "character": "時",
+      "unicode_hex": "U+6642",
+      "stroke_count": 10,
+      "lessons": [
+        17
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L17_P7_08"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/時"
+    },
+    {
+      "kanji_id": "kchar_U5148",
+      "character": "先",
+      "unicode_hex": "U+5148",
+      "stroke_count": 6,
+      "lessons": [
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L18_P8_01"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/先"
+    },
+    {
+      "kanji_id": "kchar_U4ECA",
+      "character": "今",
+      "unicode_hex": "U+4ECA",
+      "stroke_count": 4,
+      "lessons": [
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L18_P8_02",
+        "kanji_row_L18_P8_03",
+        "kanji_row_L18_P8_05"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/今"
+    },
+    {
+      "kanji_id": "kchar_U6765",
+      "character": "来",
+      "unicode_hex": "U+6765",
+      "stroke_count": 7,
+      "lessons": [
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L18_P8_04"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/来"
+    },
+    {
+      "kanji_id": "kchar_U53BB",
+      "character": "去",
+      "unicode_hex": "U+53BB",
+      "stroke_count": 5,
+      "lessons": [
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L18_P8_06"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/去"
+    },
+    {
+      "kanji_id": "kchar_U5BB6",
+      "character": "家",
+      "unicode_hex": "U+5BB6",
+      "stroke_count": 10,
+      "lessons": [
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L18_P8_07",
+        "kanji_row_L18_P8_08",
+        "kanji_row_L18_P8_09",
+        "kanji_row_L18_P8_10"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/家"
+    },
+    {
+      "kanji_id": "kchar_U65CF",
+      "character": "族",
+      "unicode_hex": "U+65CF",
+      "stroke_count": 11,
+      "lessons": [
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L18_P8_08"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/族"
+    },
+    {
+      "kanji_id": "kchar_U753B",
+      "character": "画",
+      "unicode_hex": "U+753B",
+      "stroke_count": 8,
+      "lessons": [
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L18_P8_10"
+      ],
+      "verified_stroke_reference_available": false,
+      "guided_order_practice_available": false,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "JSTROKE_DIRECTIONAL_AND_FREEHAND_FALLBACK",
+      "ink_studio_route": "#/ink-studio/画"
+    },
+    {
+      "kanji_id": "kchar_U601D",
+      "character": "思",
+      "unicode_hex": "U+601D",
+      "stroke_count": 9,
+      "lessons": [
+        18
+      ],
+      "source_row_occurrence_ids": [
+        "kanji_row_L18_P8_11"
+      ],
+      "verified_stroke_reference_available": true,
+      "guided_order_practice_available": true,
+      "freehand_fallback_available": true,
+      "writing_review_eligible": true,
+      "stroke_data_mode": "VERIFIED_SVG_AND_JSTROKE",
+      "ink_studio_route": "#/ink-studio/思"
+    }
+  ]
+}

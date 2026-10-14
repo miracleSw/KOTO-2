@@ -1,0 +1,4367 @@
+{
+  "project": "KOTO — Living Japanese Studio (ことばのアトリエ)",
+  "version": "1.0.0",
+  "gate_a_full_source_audit": {
+    "omitted_source_occurrences": 0,
+    "vocabulary_total": 291,
+    "vocabulary_by_lesson": {
+      "11": 36,
+      "12": 40,
+      "13": 49,
+      "14": 28,
+      "15": 50,
+      "16": 28,
+      "17": 38,
+      "18": 22
+    },
+    "kanji_pdf_pages": 8,
+    "kanji_pdf_nonempty_teaching_rows": 119,
+    "kanji_pdf_distinct_written_expressions": 118,
+    "kanji_page1_unnumbered_negaigoto_verified": true,
+    "kanji_duplicate_kimasu_pages_3_and_7_verified": [
+      "kanji_row_L13_P3_16",
+      "kanji_row_L17_P7_10"
+    ],
+    "kanji_page7_empty_numbered_slots_verified": [
+      {
+        "slot_number": 11,
+        "line": 1009
+      },
+      {
+        "slot_number": 12,
+        "line": 1010
+      },
+      {
+        "slot_number": 13,
+        "line": 1011
+      },
+      {
+        "slot_number": 14,
+        "line": 1012
+      }
+    ],
+    "grammar_subsections_total": 21,
+    "grammar_by_lesson": {
+      "11": 3,
+      "12": 2,
+      "13": 3,
+      "14": 2,
+      "15": 3,
+      "16": 2,
+      "17": 4,
+      "18": 2
+    }
+  },
+  "gate_b_reachability_summary": {
+    "all_291_vocab_searchable_and_assessable": true,
+    "all_119_kanji_rows_searchable_and_assessable": true,
+    "all_109_unique_kanji_characters_ink_studio_routable": true,
+    "all_21_grammar_sections_linked_to_living_sentences": true
+  },
+  "gate_g_writing_coverage_summary": {
+    "pdf_nonempty_teaching_rows": 119,
+    "pdf_distinct_written_expressions": 118,
+    "core_unique_kanji_characters": 109,
+    "ideographic_iteration_mark_note": "々 (U+3005, appearing in 色々) is preserved at expression level and excluded from CJK Unified Ideograph count (109).",
+    "verified_stroke_reference_available": 55,
+    "guided_order_practice_available": 55,
+    "jstroke_directional_reference_available": 109,
+    "freehand_fallback_available": 109,
+    "writing_review_eligible": 109,
+    "optional_vocab_extension_kanji_count": 156
+  },
+  "pedagogical_instruments_counts": {
+    "living_sentences": 21,
+    "kaiwa_scenes": 16,
+    "reality_shards": 8,
+    "listening_microscope_items": 8,
+    "dokkai_passages": 4,
+    "my_japanese_templates": 8
+  },
+  "record_level_accounting": {
+    "vocabulary": [
+      {
+        "occurrence_id": "vocab_L11_01",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_02",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_03",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_04",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_05",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_06",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_07",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_08",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_09",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_10",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_11",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_12",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_13",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_14",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_15",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_16",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_17",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_18",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_19",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_20",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_21",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_22",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_23",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_24",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_25",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_26",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_27",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_28",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_29",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_30",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_31",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_32",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_33",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_34",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_35",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L11_36",
+        "lesson": 11,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_01",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_02",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_03",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_04",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_05",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_06",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_07",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_08",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_09",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_10",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_11",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_12",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_13",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_14",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_15",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_16",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_17",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_18",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_19",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_20",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_21",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_22",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_23",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_24",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_25",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_26",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_27",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_28",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_29",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_30",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_31",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_32",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_33",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_34",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_35",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_36",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_37",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_38",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_39",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L12_40",
+        "lesson": 12,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_01",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_02",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_03",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_04",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_05",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_06",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_07",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_08",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_09",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_10",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_11",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_12",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_13",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_14",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_15",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_16",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_17",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_18",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_19",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_20",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_21",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_22",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_23",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_24",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_25",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_26",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_27",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_28",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_29",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_30",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_31",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_32",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_33",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_34",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_35",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_36",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_37",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_38",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_39",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_40",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_41",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_42",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_43",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_44",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_45",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_46",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_47",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_48",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L13_49",
+        "lesson": 13,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_01",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_02",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_03",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_04",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_05",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_06",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_07",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_08",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_09",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_10",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_11",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_12",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_13",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_14",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_15",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_16",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_17",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_18",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_19",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_20",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_21",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_22",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_23",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_24",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_25",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_26",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_27",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L14_28",
+        "lesson": 14,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_01",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_02",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_03",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_04",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_05",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_06",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_07",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_08",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_09",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_10",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_11",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_12",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_13",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_14",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_15",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_16",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_17",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_18",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_19",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_20",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_21",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_22",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_23",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_24",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_25",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_26",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_27",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_28",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_29",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_30",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_31",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_32",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_33",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_34",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_35",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_36",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_37",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_38",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_39",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_40",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_41",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_42",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_43",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_44",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_45",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_46",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_47",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_48",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_49",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L15_50",
+        "lesson": 15,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_01",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_02",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_03",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_04",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_05",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_06",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_07",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_08",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_09",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_10",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_11",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_12",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_13",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_14",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_15",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_16",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_17",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_18",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_19",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_20",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_21",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_22",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_23",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_24",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_25",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_26",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_27",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L16_28",
+        "lesson": 16,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_01",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_02",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_03",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_04",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_05",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_06",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_07",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_08",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_09",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_10",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_11",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_12",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_13",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_14",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_15",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_16",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_17",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_18",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_19",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_20",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_21",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_22",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_23",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_24",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_25",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_26",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_27",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_28",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_29",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_30",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_31",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_32",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_33",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_34",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_35",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_36",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_37",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L17_38",
+        "lesson": 17,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_01",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_02",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_03",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_04",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_05",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_06",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_07",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_08",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_09",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_10",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_11",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_12",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_13",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_14",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_15",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_16",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_17",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_18",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_19",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_20",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_21",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "vocab_L18_22",
+        "lesson": 18,
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      }
+    ],
+    "kanji_teaching_rows": [
+      {
+        "occurrence_id": "kanji_row_L11_P1_01",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "お酒",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_02",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "日本酒",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 3
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_03",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "作ります",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_04",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "作文",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_05",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "食べ物",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_06",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "飲み物",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_07",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "乗り物",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_08",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "荷物",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_09",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "お茶",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_10",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "喫茶店",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 3
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_11",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "持ちます",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_12",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "気持ち",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_13",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "お願い",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_14",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "お願いします",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L11_P1_15",
+        "lesson": 11,
+        "pdf_page": 1,
+        "written_expression": "願い事",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_01",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "料理",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_02",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "料金",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_03",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "資料",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_04",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "理由",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_05",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "無理",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_06",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "味",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_07",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "地味",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_08",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "色",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_09",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "色々",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_10",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "野菜",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_11",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "中",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_12",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "仕事中",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 3
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_13",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "一年中",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 3
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_14",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "中止",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_15",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "入ります",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_16",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "入れます",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L12_P2_17",
+        "lesson": 12,
+        "pdf_page": 2,
+        "written_expression": "入学",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_01",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "会います",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_02",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "社会",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_03",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "会社員",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 3
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_04",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "本社",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_05",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "入社",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_06",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "神社",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_07",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "支社",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_08",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "出ます",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_09",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "出します",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_10",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "出かけます",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_11",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "出口",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_12",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "出張",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_13",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "出発",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_14",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "発音",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_15",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "到着",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_16",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "着ます",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_17",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "着きます",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_18",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "空",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_19",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "空気",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_20",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "港",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L13_P3_21",
+        "lesson": 13,
+        "pdf_page": 3,
+        "written_expression": "空港",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_01",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "自分",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_02",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "自由",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_03",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "自然",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_04",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "車",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_05",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "自動車",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 3
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_06",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "自転車",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 3
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_07",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "電話",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_08",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "電車",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_09",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "電子レンジ",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_10",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "電気",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_11",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "病気",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_12",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "人気",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_13",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "使います",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_14",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "大使館",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 3
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_15",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "借ります",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L14_P4_16",
+        "lesson": 14,
+        "pdf_page": 4,
+        "written_expression": "送ります",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_01",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "体",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_02",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "全体",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_03",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "頭",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_04",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "目",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_05",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "目的",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_06",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "耳",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_07",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "手",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_08",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "上",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_09",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "上手",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_10",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "下",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_11",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "下手",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_12",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "歌手",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_13",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "運転手",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 3
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_14",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "足",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L15_P5_15",
+        "lesson": 15,
+        "pdf_page": 5,
+        "written_expression": "足ります",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_01",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "毎日",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_02",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "毎朝",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_03",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "毎週",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_04",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "毎月",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_05",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "週末",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_06",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "元気",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_07",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "起きます",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_08",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "歩きます",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_09",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "走ります",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_10",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "泳ぎます",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_11",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "水泳",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_12",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "外",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_13",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "外国",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L16_P6_14",
+        "lesson": 16,
+        "pdf_page": 6,
+        "written_expression": "外食",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L17_P7_01",
+        "lesson": 17,
+        "pdf_page": 7,
+        "written_expression": "お祝い",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L17_P7_02",
+        "lesson": 17,
+        "pdf_page": 7,
+        "written_expression": "誕生日",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 3
+      },
+      {
+        "occurrence_id": "kanji_row_L17_P7_03",
+        "lesson": 17,
+        "pdf_page": 7,
+        "written_expression": "結婚",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L17_P7_04",
+        "lesson": 17,
+        "pdf_page": 7,
+        "written_expression": "絵",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L17_P7_05",
+        "lesson": 17,
+        "pdf_page": 7,
+        "written_expression": "写真",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L17_P7_06",
+        "lesson": 17,
+        "pdf_page": 7,
+        "written_expression": "真面目",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 3
+      },
+      {
+        "occurrence_id": "kanji_row_L17_P7_07",
+        "lesson": 17,
+        "pdf_page": 7,
+        "written_expression": "計ります",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L17_P7_08",
+        "lesson": 17,
+        "pdf_page": 7,
+        "written_expression": "時計",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L17_P7_09",
+        "lesson": 17,
+        "pdf_page": 7,
+        "written_expression": "会計",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L17_P7_10",
+        "lesson": 17,
+        "pdf_page": 7,
+        "written_expression": "着ます",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L18_P8_01",
+        "lesson": 18,
+        "pdf_page": 8,
+        "written_expression": "先週",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L18_P8_02",
+        "lesson": 18,
+        "pdf_page": 8,
+        "written_expression": "今月",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L18_P8_03",
+        "lesson": 18,
+        "pdf_page": 8,
+        "written_expression": "今朝",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L18_P8_04",
+        "lesson": 18,
+        "pdf_page": 8,
+        "written_expression": "来年",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L18_P8_05",
+        "lesson": 18,
+        "pdf_page": 8,
+        "written_expression": "今年",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L18_P8_06",
+        "lesson": 18,
+        "pdf_page": 8,
+        "written_expression": "去年",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L18_P8_07",
+        "lesson": 18,
+        "pdf_page": 8,
+        "written_expression": "家",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      },
+      {
+        "occurrence_id": "kanji_row_L18_P8_08",
+        "lesson": 18,
+        "pdf_page": 8,
+        "written_expression": "家族",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L18_P8_09",
+        "lesson": 18,
+        "pdf_page": 8,
+        "written_expression": "作家",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L18_P8_10",
+        "lesson": 18,
+        "pdf_page": 8,
+        "written_expression": "画家",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 2
+      },
+      {
+        "occurrence_id": "kanji_row_L18_P8_11",
+        "lesson": 18,
+        "pdf_page": 8,
+        "written_expression": "思います",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true,
+        "constituent_kanji_count": 1
+      }
+    ],
+    "grammar_sections": [
+      {
+        "occurrence_id": "grammar_L11_1",
+        "section_code": "11.1",
+        "lesson": 11,
+        "living_sentence_id": "ls_11_1",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L11_2",
+        "section_code": "11.2",
+        "lesson": 11,
+        "living_sentence_id": "ls_11_2",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L11_3",
+        "section_code": "11.3",
+        "lesson": 11,
+        "living_sentence_id": "ls_11_3",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L12_1",
+        "section_code": "12.1",
+        "lesson": 12,
+        "living_sentence_id": "ls_12_1",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L12_2",
+        "section_code": "12.2",
+        "lesson": 12,
+        "living_sentence_id": "ls_12_2",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L13_1",
+        "section_code": "13.1",
+        "lesson": 13,
+        "living_sentence_id": "ls_13_1",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L13_2",
+        "section_code": "13.2",
+        "lesson": 13,
+        "living_sentence_id": "ls_13_2",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L13_3",
+        "section_code": "13.3",
+        "lesson": 13,
+        "living_sentence_id": "ls_13_3",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L14_1",
+        "section_code": "14.1",
+        "lesson": 14,
+        "living_sentence_id": "ls_14_1",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L14_2",
+        "section_code": "14.2",
+        "lesson": 14,
+        "living_sentence_id": "ls_14_2",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L15_1",
+        "section_code": "15.1",
+        "lesson": 15,
+        "living_sentence_id": "ls_15_1",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L15_2",
+        "section_code": "15.2",
+        "lesson": 15,
+        "living_sentence_id": "ls_15_2",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L15_3",
+        "section_code": "15.3",
+        "lesson": 15,
+        "living_sentence_id": "ls_15_3",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L16_1",
+        "section_code": "16.1",
+        "lesson": 16,
+        "living_sentence_id": "ls_16_1",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L16_2",
+        "section_code": "16.2",
+        "lesson": 16,
+        "living_sentence_id": "ls_16_2",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L17_1",
+        "section_code": "17.1",
+        "lesson": 17,
+        "living_sentence_id": "ls_17_1",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L17_2",
+        "section_code": "17.2",
+        "lesson": 17,
+        "living_sentence_id": "ls_17_2",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L17_3",
+        "section_code": "17.3",
+        "lesson": 17,
+        "living_sentence_id": "ls_17_3",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L17_4",
+        "section_code": "17.4",
+        "lesson": 17,
+        "living_sentence_id": "ls_17_4",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L18_1",
+        "section_code": "18.1",
+        "lesson": 18,
+        "living_sentence_id": "ls_18_1",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      },
+      {
+        "occurrence_id": "grammar_L18_2",
+        "section_code": "18.2",
+        "lesson": 18,
+        "living_sentence_id": "ls_18_2",
+        "ingested": true,
+        "searchable": true,
+        "learnable": true,
+        "assessable": true,
+        "srs_review_eligible": true
+      }
+    ]
+  }
+}
